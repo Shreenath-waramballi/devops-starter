@@ -1,0 +1,16 @@
+# Logs
+*.log
+
+# Python/Jupyter stuff
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+
+# Secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
